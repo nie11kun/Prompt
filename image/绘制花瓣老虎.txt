@@ -1,0 +1,1 @@
+gen_image(subject=tiger, variations=[MadeEntirelyOOf(lillies), white], styles=[UltraRealisticPhoto])
